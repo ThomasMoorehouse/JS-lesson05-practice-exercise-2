@@ -1,2 +1,2 @@
 # JS-lesson05-practice-exercise-2
-Events & Event Listeners
+querySelector, click event, event listeners, event handlers, innerText
